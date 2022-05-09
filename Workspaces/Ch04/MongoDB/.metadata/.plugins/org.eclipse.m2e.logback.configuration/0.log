@@ -438,3 +438,4 @@ Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/ta
 2022-05-09 20:00:07,922 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-05-09 20:00:07,923 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-05-09 20:00:07,923 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\maria\OneDrive\Desktop\SpringCore\spring-in-action-6-samples-main\spring-in-action-6-samples-main\ch04\tacos-sd-mongodb\src\test\resources
+2022-05-09 20:06:23,230 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
